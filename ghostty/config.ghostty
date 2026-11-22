@@ -1,0 +1,13 @@
+
+window-width = 130
+window-height = 30
+
+background-opacity = 0.5
+background-blur = true
+
+background-image = /home/alig8or/.config/ghostty/ralsei.png
+background-image-opacity = 0.35
+background-image-fit = cover
+background-image-position = center
+background-image-repeat = false
+confirm-close-surface = false
