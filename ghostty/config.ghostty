@@ -1,8 +1,8 @@
 window-width = 130
+background-blur = 20
 window-height = 30
 window-decoration = server
-background-opacity = 0.5
-background-blur = true
+background-opacity = 0.7
 confirm-close-surface = false
 window-padding-x = 0
 window-padding-y = 0
