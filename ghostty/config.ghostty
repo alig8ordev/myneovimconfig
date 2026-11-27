@@ -1,12 +1,20 @@
+command = /usr/bin/zsh
+
+font-family = JetBrainsMono Nerd Font
+font-size = 12
+theme = TokyoNight
+background-opacity = 0.5
 window-width = 130
-background-blur = 20
 window-height = 30
-window-decoration = server
-background-opacity = 0.7
-confirm-close-surface = false
 window-padding-x = 0
 window-padding-y = 0
-window-padding-balance = false  
-scrollbar = never
+window-padding-balance = false
+confirm-close-surface = false
+
 cursor-style = block
-shell-integration-features = no-cursor
+cursor-style-blink = false
+background-blur = true
+
+shell-integration = zsh
+shell-integration-features = no-cursor,sudo,title,ssh-env,ssh-terminfo
+scrollbar = never
